@@ -19,11 +19,11 @@ int main()
     {
         cout << "Menor" << endl;
     }
-    else if (13 <= edad && edad <= 18)
+    else if (edad <= 18)
     {
         cout << "Cadete" << endl;
     }
-    else if (18 <= edad && edad < 26)
+    else if (edad <= 26)
     {
         cout << "Juvenil " << endl;
     }
